@@ -1,0 +1,5 @@
+{
+  "name": "App de Caronas",
+  "description": "Um protótipo de aplicativo para motoristas publicarem viagens intermunicipais de carona. Insira detalhes da viagem como origem, destino, data, hora, assentos disponíveis e preço para publicar sua jornada.",
+  "requestFramePermissions": []
+}
